@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.app {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title {
+	width: fit-content;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	padding: 20px 40px;
+	box-sizing: border-box;
+	border-radius: 20px;
+	-webkit-box-shadow: inset 0px 0px 24px 4px rgba(255, 255, 255, 1);
+	-moz-box-shadow: inset 0px 0px 24px 4px rgba(255, 255, 255, 1);
+	box-shadow: inset 0px 0px 24px 4px rgba(255, 255, 255, 1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.textTa,
+.morseTa {
+	width: 70%;
+	min-height: 250px;
+	outline: none;
+	/* border: 2px solid black; */
+	font-size: 1.3rem;
+	padding: 20px;
+	font-weight: bold;
+	box-sizing: border-box;
+	border-radius: 10px;
+	color: rgb(95, 95, 95);
+	-webkit-box-shadow: inset 0px 0px 20px -1px rgba(163, 163, 163, 1);
+	-moz-box-shadow: inset 0px 0px 20px -1px rgba(163, 163, 163, 1);
+	box-shadow: inset 0px 0px 20px -1px rgba(163, 163, 163, 1);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.textTa {
+	border-radius: 20px 20px 0 0;
 }
 
-.App-link {
-  color: #61dafb;
+.morseTa {
+	border-radius: 0 0 20px 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+textarea::-webkit-input-placeholder {
+	color: rgb(190, 190, 190);
+}
+
+textarea:-moz-placeholder {
+	/* Firefox 18- */
+	color: rgb(190, 190, 190);
+}
+
+textarea::-moz-placeholder {
+	/* Firefox 19+ */
+	color: rgb(190, 190, 190);
+}
+
+textarea:-ms-input-placeholder {
+	color: rgb(190, 190, 190);
+}
+
+textarea::placeholder {
+	color: rgb(190, 190, 190);
 }
