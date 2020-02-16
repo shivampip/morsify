@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morsify/static/css/main.bbb0cf2b.chunk.css",
+    "main.js": "/morsify/static/js/main.dcb37255.chunk.js",
+    "main.js.map": "/morsify/static/js/main.dcb37255.chunk.js.map",
+    "runtime-main.js": "/morsify/static/js/runtime-main.6cb6487f.js",
+    "runtime-main.js.map": "/morsify/static/js/runtime-main.6cb6487f.js.map",
+    "static/js/2.fc30da56.chunk.js": "/morsify/static/js/2.fc30da56.chunk.js",
+    "static/js/2.fc30da56.chunk.js.map": "/morsify/static/js/2.fc30da56.chunk.js.map",
+    "index.html": "/morsify/index.html",
+    "precache-manifest.d56a3f6a7db22fee6d444e08acdb7d60.js": "/morsify/precache-manifest.d56a3f6a7db22fee6d444e08acdb7d60.js",
+    "service-worker.js": "/morsify/service-worker.js",
+    "static/css/main.bbb0cf2b.chunk.css.map": "/morsify/static/css/main.bbb0cf2b.chunk.css.map",
+    "static/js/2.fc30da56.chunk.js.LICENSE.txt": "/morsify/static/js/2.fc30da56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb6487f.js",
+    "static/js/2.fc30da56.chunk.js",
+    "static/css/main.bbb0cf2b.chunk.css",
+    "static/js/main.dcb37255.chunk.js"
+  ]
+}
