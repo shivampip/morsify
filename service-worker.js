@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/morsify/precache-manifest.d56a3f6a7db22fee6d444e08acdb7d60.js"
+  "/morsify/precache-manifest.af9d45f76d25e32858b10f480986dca3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81898cbc3422144f21ac9c1fb2ad126c",
+    "revision": "531f279394c2c9696997f63af425c7a9",
     "url": "/morsify/index.html"
   },
   {
