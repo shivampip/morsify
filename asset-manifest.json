@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/morsify/static/css/main.bbb0cf2b.chunk.css",
-    "main.js": "/morsify/static/js/main.dcb37255.chunk.js",
-    "main.js.map": "/morsify/static/js/main.dcb37255.chunk.js.map",
+    "main.js": "/morsify/static/js/main.3830b0a9.chunk.js",
+    "main.js.map": "/morsify/static/js/main.3830b0a9.chunk.js.map",
     "runtime-main.js": "/morsify/static/js/runtime-main.6cb6487f.js",
     "runtime-main.js.map": "/morsify/static/js/runtime-main.6cb6487f.js.map",
     "static/js/2.fc30da56.chunk.js": "/morsify/static/js/2.fc30da56.chunk.js",
     "static/js/2.fc30da56.chunk.js.map": "/morsify/static/js/2.fc30da56.chunk.js.map",
     "index.html": "/morsify/index.html",
-    "precache-manifest.af9d45f76d25e32858b10f480986dca3.js": "/morsify/precache-manifest.af9d45f76d25e32858b10f480986dca3.js",
+    "precache-manifest.0309f21d736d9162032fafdb17836753.js": "/morsify/precache-manifest.0309f21d736d9162032fafdb17836753.js",
     "service-worker.js": "/morsify/service-worker.js",
     "static/css/main.bbb0cf2b.chunk.css.map": "/morsify/static/css/main.bbb0cf2b.chunk.css.map",
     "static/js/2.fc30da56.chunk.js.LICENSE.txt": "/morsify/static/js/2.fc30da56.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6cb6487f.js",
     "static/js/2.fc30da56.chunk.js",
     "static/css/main.bbb0cf2b.chunk.css",
-    "static/js/main.dcb37255.chunk.js"
+    "static/js/main.3830b0a9.chunk.js"
   ]
 }

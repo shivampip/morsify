@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "531f279394c2c9696997f63af425c7a9",
+    "revision": "c32a07451ce78dfdda1cfc939d285488",
     "url": "/morsify/index.html"
   },
   {
-    "revision": "b3b78567082075b5c030",
+    "revision": "b108da2b23121d3786ad",
     "url": "/morsify/static/css/main.bbb0cf2b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/morsify/static/js/2.fc30da56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3b78567082075b5c030",
-    "url": "/morsify/static/js/main.dcb37255.chunk.js"
+    "revision": "b108da2b23121d3786ad",
+    "url": "/morsify/static/js/main.3830b0a9.chunk.js"
   },
   {
     "revision": "4563b1020723d6f24427",
